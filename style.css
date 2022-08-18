@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  color: white;
+  height: 100%;
+}
+
+.containerbox {
+  background-image: url(./background_image.jpeg);
+  /* border: 3px solid darkorange; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.divinfo {
+  /* border: 4px solid fuchsia; */
+  width: 80%;
+  height: 90%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.header {
+  /* border: 1px solid red; */
+  text-align: center;
+  height: 20%;
+}
+
+#title {
+  font-family: "Bowlby One SC", cursive;
+  letter-spacing: 5px;
+  font-size: 50px;
+}
+
+span {
+  color: red;
+}
+
+#description {
+  text-align: center;
+  font-size: 23px;
+  font-family: "Sorts Mill Goudy", sans-serif;
+  margin-bottom: 15px;
+}
+
+.formbox {
+  /* border: 10px solid yellow; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+}
+
+form {
+  border: 1px solid white;
+  height: 100%;
+  width: 30%;
+  
+}
+
+.box{
+    border: 1px solid aqua;
+    height: 11%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.box-textarea{
+    border: 1px solid hotpink ;
+    height: 20%;
+}
+
+/* label{
+    height: 20%;
+}
+
+input{
+    height: 80%;
+} */
