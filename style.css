@@ -7,6 +7,7 @@
 body{
     color: #fff;
     background-image: url(./background_image.jpeg);
+    background-size: cover;
 }
 
 #form-container{
