@@ -13,7 +13,8 @@ body{
     max-width: 1240px;
     margin: auto;
     margin-top: 30px;
-    background-color:rgba(0,0,0,0.3)
+    background-color:rgba(0,0,0,0.3);
+    
 }
 
 #form-header {
@@ -45,6 +46,7 @@ font-family: 'Sorts Mill Goudy', serif;
     background-color: rgba(0,0,0,0.8);
     margin: auto;
     padding: 10px;
+    height: 90vh;
 }
 
 #survey-form{
