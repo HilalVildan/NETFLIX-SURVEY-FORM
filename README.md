@@ -1,6 +1,6 @@
 # Project : NETFLIX Survey Form Project
 ​
-https://netflix-survey-form.vercel.app/
+https://netflix-survey-form-prjct.netlify.app/
 
 ## Description
 ​
